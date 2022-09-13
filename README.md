@@ -1,3 +1,3 @@
 # Demo
 
-this repo is for learning purposes only.
+this repo is for learning purposes only !
